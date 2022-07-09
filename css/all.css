@@ -1,0 +1,213 @@
+@charset "utf-8";
+/* CSS Document */
+ul, li, h1, h2, h3, p {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+a {
+    text-decoration: none;
+    color: #000
+}
+
+body {
+    line-height: 21px;
+    background: url(../images/bg.jpg) fixed no-repeat center;
+    background-size: cover;
+    margin: 0
+}
+
+.clear {
+    clear: both
+}
+
+.menu li {
+    list-style: none
+}
+
+.logo {
+    text-align: center
+}
+
+.logo img {
+    width: 240px
+}
+
+.banner {
+    position: relative;
+    clear: both
+}
+
+.bar {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 16px 0;
+    font-size: 30px;
+    border-bottom: #fff solid 2px;
+    color: #fff;
+}
+
+.bar strong {
+    font-weight: normal;
+}
+
+.menu {
+    width: 100%;
+    margin: 0 auto;
+    height: 65px;
+    background: #009999;
+    padding: 0 0px;
+}
+
+.menu li a {
+    color: #fff;
+    font-size: 18px
+}
+
+.menu li {
+    float: left;
+    padding: 20px 0px;
+    width: 200px;
+    text-align: center
+}
+
+.right {
+    float: right;
+    width: 660px;
+    padding: 20px
+}
+
+.left {
+    color: #fff;
+    min-height: 300px;
+    background: #009999;
+    padding: 20px
+}
+
+.content {
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 14px;
+    padding: 0 10px;
+}
+
+.end {
+    margin-top: 20px;
+    clear: both;
+    background: #009999;
+    color: #fff;
+    padding: 20px 0;
+    font-size: 18px;
+    text-align: center;
+}
+
+.produce img {
+    float: left;
+    margin: 0 20px 20px 0
+}
+
+.pad {
+    padding: 20px 0;
+    display: block
+}
+
+.pics p {
+    margin: 20px;
+    text-align: center
+}
+
+.imglist {
+    clear: both
+}
+
+.imglist ul {
+    margin: 0 -15px
+}
+
+.imglist li img {
+    width: 100%;
+    height: 220px
+}
+
+.imglist li {
+    float: left;
+    width: 310px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    text-align: center
+}
+
+.fr {
+    float: right
+}
+
+.news li {
+    padding: 5px;
+}
+
+.news li a {
+    font-size: 19px;
+    color: #fff
+}
+
+.news li p {
+    color: #ccc
+}
+
+.title {
+    text-align: center;
+    color: #F00;
+    padding: 10px
+}
+
+.fl {
+    float: left
+}
+
+.mid {
+    margin: 0 auto;
+    width: 1000px;
+    background: #fff;
+}
+
+.msg > div {
+    padding: 10px
+}
+
+.list p {
+    font-size: 16px;
+    border-bottom: #ccc solid 1px;
+    padding: 5px 0
+}
+
+.list a {
+    color: #fff
+}
+
+.text-center {
+    text-align: center
+}
+
+.inr {
+    float: right;
+    width: 720px;
+    line-height: 30px
+}
+
+.inl {
+    float: left;
+    width: 240px;
+}
+
+.produce {
+    width: 45%;
+    float: left
+}
+
+.lianxi {
+    width: 45%;
+    float: right
+}
